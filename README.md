@@ -1,3 +1,4 @@
 # Analyzing Documents
 
-Para poder correr el código, basta con modificar el nombre del problema. Estos van desde problema1, problema2, ..., problema6.
+Este proyecto tiene como objetivo mostrar el funcionamiento de un algoritmo de clustering al aplicarlo a un conjunto de 50 textos dentro de los cuales tenemos un total de 35 clusters. 
+El algoritmo implementado es K-means. Los textos corresponden a articles y reviews. 
